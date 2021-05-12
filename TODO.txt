@@ -1,0 +1,3 @@
+- Boss Music
+- Balance damage and HP
+- Clean up code
